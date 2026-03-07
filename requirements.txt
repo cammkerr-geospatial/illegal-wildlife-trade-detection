@@ -1,0 +1,11 @@
+pandas
+numpy
+geopandas
+networkx
+shapely
+pycountry
+scikit-learn
+requests
+matplotlib
+jupyter
+psycopg2-binary
